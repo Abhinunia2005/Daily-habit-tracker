@@ -25,17 +25,17 @@ Daily Habit Tracker is a minimalistic application designed to help users build a
 To set up the project locally:
 
 1. **Clone the repository:**
-   ``bash git clone https://github.com/Abhinunia2005/Daily-habit-tracker.git 
+   ```bash git clone https://github.com/Abhinunia2005/Daily-habit-tracker.git 
 
 ## Navigate to the project directory:
-``bash cd Daily-habit-tracker 
+```bash cd Daily-habit-tracker 
 
 ## Install dependencies:
-``bash npm install
+```bash npm install
 ## Start the development server:
-``bash npm run dev 
+```bash npm run dev 
 ## Access the application: Open your browser and navigate to
-``bash http://localhost:3000
+```bash http://localhost:3000
 ## Contributors
 ### Harsh joshi
 #### Abhimanyu Nunia
