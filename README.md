@@ -1,8 +1,8 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/MuffinTheDragon/daily-habit-tracker/main/src/app/favicon.ico" /></h1>
+
 
 ## Daily habit tracker
 
-### Link: https://www.dailyhabits.dev/
+### Link: [https://www.dailyhabits.dev/](https://www.dailyhabits.dev/habits)
 
 This is a simple, minimalistic app that lets you track your daily habits.
 
